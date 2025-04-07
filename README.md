@@ -22,7 +22,7 @@
 
 📈 Estadísticas
 
-![Henryjmzx9 GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryjmzx9&show_icons=true&theme=dark)
+![Henryjmzx9 GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryjmzx9&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henryjmzx9&layout=compact&theme=tokyonight)
 
