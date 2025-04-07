@@ -1,7 +1,8 @@
 👋 ¡Hola! Soy Henry 👨‍💻
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 ✨ Desarrollador apasionado por la tecnología, el aprendizaje constante y crear soluciones que marquen la diferencia.
 
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 🚀 Sobre mí
 
