@@ -31,7 +31,7 @@
 📫 Conecta conmigo
 
 - 🌐 [Azure](https://dev.azure.com/henryjmzx19/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 💼 [LinkedIn](https://www.linkedin.com/in/henry-eduardo-jimenez-maye-09828735b/)
 - 📧 henryjmzx19@hotmail.com
 
 
