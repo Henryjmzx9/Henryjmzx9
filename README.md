@@ -53,7 +53,6 @@
 - 📧 henryjmzx19@hotmail.com
 
 
-> *“El código es poesía. Cada línea cuenta una historia.”* – Henry 👨‍💻
 
 
 
