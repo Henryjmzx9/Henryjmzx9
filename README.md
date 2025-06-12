@@ -6,14 +6,14 @@
 
 - 🎓 Estudiante de Técnico en Ingeniería de Desarrollo de Software  
 - 💼 Buscando oportunidades en desarrollo de software  
-- 🌱 Actualmente aprendiendo: .NET 8, Azure DevOps, y arquitectura MVC  
+- 🌱 Actualmente aprendiendo: .NET 8, Azure DevOps, arquitectura MVC y Java  
 - 🧠 Interesado en desarrollo backend con C#, bases de datos relacionales, análisis de sistemas y patrones de diseño  
 - 👨‍💻 Experiencia creando proyectos con arquitectura **MVC** en **ASP.NET Core**, modelado de bases de datos y control de versiones con **Git**
 
 
 🧠 Conocimientos
 
-- 🔧 Programación orientada a objetos en C#  
+- 🔧 Programación orientada a objetos en C# y Java   
 - 🗃️ Diseño y normalización de bases de datos (SQL Server)  
 - 🎯 Lógica de negocios, controladores, vistas y modelos (MVC)  
 - 🌐 Uso de Entity Framework
@@ -26,6 +26,7 @@
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -51,8 +52,3 @@
 - 🌐 [Azure DevOps](https://dev.azure.com/henryjmzx19/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/henry-eduardo-jimenez-maye-09828735b/) 
 - 📧 henryjmzx19@hotmail.com
-
-
-
-
-
